@@ -56,7 +56,15 @@ The project uses the Diabetes Dataset containing medical predictor variables and
 ---
 
 ## Results
-The machine learning models were successfully trained and tested on the dataset. Among the implemented algorithms, Random Forest Classifier achieved the best performance and prediction accuracy.
+The machine learning models were successfully trained and evaluated using the diabetes dataset.
+
+### Random Forest Classifier Performance
+- Accuracy: 75%
+- Precision: 65%
+- Recall: 67%
+- F1-Score: 66%
+
+The Random Forest model achieved the best overall performance among the implemented algorithms.
 
 ---
 
